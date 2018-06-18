@@ -5,7 +5,7 @@ The source code is adapted from the Mirai source code and heavily modified.
 
 The `src` directory contains the source code for the Antibiotic bot. The `tools` directory contains various tools to help development of Antibiotic. In the top of all file in both directories is a comment explaining its functionality.
 
-The Antibiotic bot module was created as a part of a bachelor thesis "Bot module for AntibIoTic" (2018) by Mathies Svarrer-Lanthén and based on the work by Michele De Donno in his master's thesis "AntibIoTic against DDoS attacks" (2017).
+The Antibiotic bot module was created as a part of a bachelor thesis at DTU Compute named "Bot module for AntibIoTic" (2018) by Mathies Svarrer-Lanthén and based on the work by Michele De Donno in his master's thesis "AntibIoTic against DDoS attacks" (2017).
 
 Note that this is a proof-of-concept and should not be used in production. This proof-of-concept specifically targets the router named Netgear DGN1000.
 
